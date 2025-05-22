@@ -9,6 +9,6 @@
         }
     ],
     "env": {
-        "#1": "JOLINOTIF_DSN=jolinotif://default"
+        "JOLINOTIF_DSN": "jolinotif://default"
     }
 }
